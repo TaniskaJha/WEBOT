@@ -1,8 +1,11 @@
-# WEBOT: AI Bot built with OpenAI and Vanilla.js using Vite.js
+# WEBOT: AI WebApp 
+Built with OpenAI and Vanilla.js using Vite.js
 
 ## Introduction
 
 This project is a smart AI chatbot built with OpenAI and Vanilla.js using Vite.js. It allows users to communicate with an artificial intelligence (AI) chatbot and get responses to their queries. The chatbot uses the OpenAI API to generate responses based on the user's input.
+
+
 
 ## Features
 
