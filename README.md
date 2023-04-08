@@ -4,6 +4,8 @@ Built with OpenAI and Vanilla.js using Vite.js
 ## Introduction
 
 This project is a *smart AI chatbot* built with **OpenAI** and **Vanilla.js** using **Vite.js**. It allows users to communicate with an *artificial intelligence* (AI) chatbot and get responses to their queries. The chatbot uses the **OpenAI API** to generate responses based on the user's input.The WebApp is live at this link: https://webot-taniskajha.netlify.app
+
+
 ![mainpg](client/assets/ss1.png)
 
 
@@ -14,7 +16,11 @@ The AI chatbot built in this project has the following features:
 
 - *Users can communicate with the chatbot using natural language queries
 - *The chatbot uses the OpenAI API to generate responses based on the user's input
-- *The chatbot is built using Vanilla.js, a lightweight JavaScript framework, and Vite.js, a build tool that makes it easy to create fast and efficient web applications.
+- *The chatbot is built using Vanilla.js, a lightweight JavaScript framework, and Vite.js, a build tool that makes it easy to create fast and efficient web applications*.
+
+
+![qna.pg](client/assets/ss2.png)
+
 
 ## Installation
 
